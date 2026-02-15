@@ -1,6 +1,6 @@
 {
   "expo": {
-    "icon": "https://agent.expo.app/static/icon.png",
+    "icon": "http://localhost:4443/expo-agent-images-production/development/4a20fd58-24d7-4f2b-8bba-d20ab91efa8e/019c6393-8d2d-7f59-964c-1c2a25f1168e/6c491434-8528-4cb4-ac81-0a204913c3af",
     "orientation": "default",
     "scheme": "acme",
     "userInterfaceStyle": "automatic",
